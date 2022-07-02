@@ -1,2 +1,2 @@
 # Assignments
-Bridgelapz shell scripting assignments
+Shell Scripting
